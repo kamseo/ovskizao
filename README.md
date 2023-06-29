@@ -326,9 +326,3 @@ type ICBCurrentAndPlayedAndGale = (currentPlay: IDataBlazeResponse, betplayed: I
 2. No _exemplo2_ [`example/example-without-dotenv.mjs`] as variáveis ambiente deveram ser setadas direto no sistema ou preenchendo o formulário que será exibido no console
 
 <p align="right"><a href="#topo">topo</a></p>
-
-## Contato
-
-Instagram: <a href="https://www.instagram.com/elizandrodantas/" target="_blank">Elizandro Dantas</a>
-
-<p align="right"><a href="#topo">topo</a></p>
